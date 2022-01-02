@@ -8,7 +8,6 @@ I am a Data Analyst and just completed my post graduate program in Data Analytic
 - Libraries : NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
 - Data Analysis: Exploratory Data Analysis, Ensemble Methods,Model Development & Evaluation Metrics, Quantitative Methods.
 
- ⚡ Fun fact: Mechanical Engineering to Data Science
  
  📫 How to reach me:- info.onkarhonrao@gmail.com
 

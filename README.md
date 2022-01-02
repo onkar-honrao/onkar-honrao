@@ -5,7 +5,7 @@ I am an Aspiring Data Analyst passionate and ambitious individual focused on acq
 - Languages:- Python , SQL
 - Skill:- Machine Learning, Statistics, Excel
 - Tools :- Tableau, PowerBI
-- Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
+- Libraries : NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
 - Data Analysis: Exploratory Data Analysis, Ensemble Methods,Model Development & Evaluation Metrics, Quantitative Methods.
 
 

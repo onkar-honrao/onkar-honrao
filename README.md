@@ -1,5 +1,5 @@
 ### 👋 Hi there
-I am an Aspiring Data Analyst passionate and ambitious individual focused on acquiring analytical skills and growing professionally.Looking for a great opportunity in the field of data analysis. 
+I am a Data Analyst and just completed my post graduate program in Data Analytics from Imarticus Learning ,Pune. Looking for a great opportunity in the field of data analysis. 
 
 #### Things I'm good at 🔥 -
 - Languages:- Python , SQL
@@ -8,7 +8,8 @@ I am an Aspiring Data Analyst passionate and ambitious individual focused on acq
 - Libraries : NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
 - Data Analysis: Exploratory Data Analysis, Ensemble Methods,Model Development & Evaluation Metrics, Quantitative Methods.
 
-
+ ⚡ Fun fact: Mechanical Engineering to Data Science
+ 
  📫 How to reach me:- info.onkarhonrao@gmail.com
 
 <!---
